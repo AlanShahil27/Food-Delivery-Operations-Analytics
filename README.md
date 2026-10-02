@@ -38,3 +38,30 @@ Project Files
 Outcome
 
 	An interactive dashboard that helps users explore food delivery performance and identify areas for operational improvement.
+
+Dashboard Screenshots
+
+1. Executive Overview
+
+[Executive Overview](dashboard_screenshots/01-executive-overview.png)
+
+2. Customer & Order Analysis
+
+[Customer & Order Analysis](dashboard_screenshots/02-customer-order-analysis.png)
+
+3. Delivery Performance
+
+![Delivery Performance](dashboard_screenshots/03-delivery-performance.png)
+
+4. Restaurant & Revenue Analysis
+
+[Restaurant & Revenue Analysis](dashboard_screenshots/04-restaurant-revenue-analysis.png)
+
+5. Cancellation & Satisfaction Analysis
+
+![Cancellation & Satisfaction Analysis](dashboard_screenshots/05-cancellation-satisfaction.png)
+
+6. Business Insights & Actions
+
+[Business Insights & Actions](dashboard_screenshots/06-business-insights.png)
+
