@@ -43,25 +43,25 @@ Dashboard Screenshots
 
 1. Executive Overview
 
-[Executive Overview](dashboard_screenshots/01-executive-overview.png)
+	[Executive Overview](Dashboard%20Screenshots/01-executive-overview.png)
 
 2. Customer & Order Analysis
 
-[Customer & Order Analysis](dashboard_screenshots/02-customer-order-analysis.png)
+	[Customer & Order Analysis](Dashboard%20Screenshots/02-customer-order-analysis.png)
 
 3. Delivery Performance
 
-![Delivery Performance](dashboard_screenshots/03-delivery-performance.png)
+	[Delivery Performance](Dashboard%20Screenshots/03-delivery-performance.png)
 
 4. Restaurant & Revenue Analysis
 
-[Restaurant & Revenue Analysis](dashboard_screenshots/04-restaurant-revenue-analysis.png)
+	[Restaurant & Revenue Analysis](Dashboard%20Screenshots/04-restaurant-revenue-analysis.png)
 
 5. Cancellation & Satisfaction Analysis
 
-![Cancellation & Satisfaction Analysis](dashboard_screenshots/05-cancellation-satisfaction.png)
+	[Cancellation & Satisfaction Analysis](Dashboard%20Screenshots/05-cancellation-satisfaction.png)
 
 6. Business Insights & Actions
 
-[Business Insights & Actions](dashboard_screenshots/06-business-insights.png)
+	[Business Insights & Actions](Dashboard%20Screenshots/06-business-insights.png)
 
