@@ -68,8 +68,4 @@ Dashboard Screenshots
 
 
 
-### 6. Business Insights & Actions
-
-![Business Insights & Actions](<Dashboard Screenshots/06-business-insights.png>)
-
 
